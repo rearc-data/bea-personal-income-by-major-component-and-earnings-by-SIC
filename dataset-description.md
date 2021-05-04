@@ -11,7 +11,7 @@ This product uses the Bureau of Economic Analysis (BEA) Data but is not endorsed
 
 ### More Information
 - Source: [The U.S. Bureau of Economic Analysis](https://www.bea.gov/)
-- [BEA - Personal Income by Major Component and Earnings by NAICS Industy](https://www.bea.gov/data/income-saving/personal-income-by-state)
+- [BEA - Personal Income by Major Component and Earnings by SIC Industy](https://www.bea.gov/data/income-saving/personal-income-by-state)
 - [BEA Terms Of Service](https://apps.bea.gov/API/_pdf/bea_api_tos.pdf)
 - Frequency: Annual
 - Format: CSV
