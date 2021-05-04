@@ -2,7 +2,7 @@
     <img src="./rearc_logo_rgb.png" alt="Rearc Logo" title="Rearc Logo" height="52" />
 </a>
 
-### Personal Income by Major Component and Earnings by SIC Industry" (Table CAINC5S) | The U.S. Bureau of Economic Analysis (BEA)
+### Personal Income by Major Component and Earnings by SIC Industry (Table CAINC5S) | The U.S. Bureau of Economic Analysis (BEA)
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting https://aws.amazon.com/marketplace/pp/prodview-5r625u6lyujme.
 
 ### Main Overview
