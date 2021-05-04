@@ -1,6 +1,7 @@
-### Personal Income and Population per capita (Table CAINC1) | The U.S. Bureau of Economic Analysis (BEA)
+### Personal Income by Major Component and Earnings by SIC Industry (Table CAINC5S) | The U.S. Bureau of Economic Analysis (BEA)
 
-The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/bea-regional-personal-income-population-per-capita](https://github.com/rearc-data/bea-regional-personal-income-population-per-capita).
+The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/bea-personal-income-by-major-component-and-earnings-by-SIC](https://github.com/rearc-data/bea-personal-income-by-major-component-and-earnings-by-SIC).
+
 
 ## Main Overview
 The U.S. Bureau of Economic Analysis (BEA) produces data about the nation's economy, including U.S. gross domestic product, better known as GDP, as well as state and local numbers, foreign trade and investment stats and industry data.
@@ -12,7 +13,7 @@ This product uses the Bureau of Economic Analysis (BEA) Data API but is not endo
 
 ## More Information
 - Source: [The U.S. Bureau of Economic Analysis](https://www.bea.gov/)
-- [BEA - Employment by County, Metro, and Other Areas](https://www.bea.gov/data/employment/employment-county-metro-and-other-areas)
+- [BEA - Local Area Personal Income](https://apps.bea.gov/regional/histdata/releases/1119lapi/index.cfm)
 - [BEA Terms Of Service](https://apps.bea.gov/API/_pdf/bea_api_tos.pdf)
 - Frequency: Annual
 - Format: CSV
